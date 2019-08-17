@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "661474323617",
+    "firebase_url": "https://flash-chat-679eb.firebaseio.com",
+    "project_id": "flash-chat-679eb",
+    "storage_bucket": "flash-chat-679eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661474323617:android:69f9b5c988c9d68e",
+        "android_client_info": {
+          "package_name": "ro.scrypto.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661474323617-p5an0fs20p7oq0pfu6cg0a99mdkomvj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzZNyZ3mQ8w02RSJ3PCF3Na95Va_zZA3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661474323617-p5an0fs20p7oq0pfu6cg0a99mdkomvj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
